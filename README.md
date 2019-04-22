@@ -7,6 +7,7 @@ A list of Open/Free Software alternatives to people who want to be productive wi
 [Page Layout](#page-layout)  
 [Video Editing](#video-editing)  
 [VFX & 3D](#vfx--3d)  
+[Renders](#renders)  
 [Animation](#animation)  
 [Audio Editing](#audio-editing)  
 
@@ -93,6 +94,7 @@ Blender is the free and open source 3D creation suite. It supports the entirety 
 #### **Suggested Plugins**
 -
 
+## Renders
 ### [Keythea](http://www.kerkythea.net/cms/)
 **Alternative to:** VRay  
 Kerkythea is a freeware software that can produce high quality renders without spending a cent on software licensing.
