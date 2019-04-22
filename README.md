@@ -7,7 +7,7 @@ A list of Open/Free Software alternatives to people who want to be productive wi
 ## Helping
 This list is only what i founded. So if you have any suggestion, make Pull Request to help this repository get better.
 
-## Photo Editing and Drawing
+## Photo Editing & Drawing
 ### [GIMP](https://www.gimp.org/)
 **Alternative to:** Adobe Photoshop  
 GIMP is Free and Open Source Image Editor.
