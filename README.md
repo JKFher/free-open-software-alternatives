@@ -2,13 +2,13 @@
 A list of Open/Free Software alternatives to people who want to be productive without wasting money.
 
 ### Index
-[Helping](#helping)
-[Photo Editing & Drawing](#photo-editing--drawing)
-[Page Layout](#page-layout)
-[Video Editing](#video-editing)
-[VFX & 3D](#vfx--3d)
-[Animation](#animation)
-[Audio Editing](#audio-editing)
+[Helping](#helping)  
+[Photo Editing & Drawing](#photo-editing--drawing)  
+[Page Layout](#page-layout)  
+[Video Editing](#video-editing)  
+[VFX & 3D](#vfx--3d)  
+[Animation](#animation)  
+[Audio Editing](#audio-editing)  
 
 ## Helping
 This list is only what i founded. So if you have any suggestion, make Pull Request to help this repository get better.
