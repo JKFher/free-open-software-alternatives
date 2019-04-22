@@ -1,7 +1,7 @@
 # Free/Open Software Alternatives
 A list of Open/Free Software alternatives to people who want to be productive without wasting money.
 
-###Index
+### Index
 []()
 
 ## Helping
